@@ -7,9 +7,9 @@ This dataset contains minute-level data for BankNifty spanning from January 9, 2
 ## Content
 The dataset includes the following columns:
 
-**Date:** The date of the data point in YYYY-MM-DD format.
+**Date:** The date of the data point in DD-MM-YYYY format.
 
-**Time:** The time of the data point in HH:MM format.
+**Time:** The time of the data point in HH:MM:SS format.
 
 **Open:** The opening price of BankNifty at the given minute.
 
